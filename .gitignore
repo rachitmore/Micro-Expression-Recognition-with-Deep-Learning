@@ -164,3 +164,8 @@ cython_debug/
 archive
 archive/
 ./archive
+
+staticfiles
+staticfiles/
+./staticfiles
+
