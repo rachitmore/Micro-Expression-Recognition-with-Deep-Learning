@@ -170,3 +170,4 @@ staticfiles/
 ./staticfiles
 
 secret_key.txt
+*.txt
